@@ -64,6 +64,6 @@ export class Home extends React.Component<{}, stateType> {
             <Clicker
                 onClick={this.sell("materialB")}
                 text="Sell material B" />
-        </div>
+        </div> //woo test 
     )
 }
