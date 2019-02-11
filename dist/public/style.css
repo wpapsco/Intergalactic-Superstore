@@ -1,8 +1,17 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.topinfo {
+    display: flex;
+    /* justify-content: space-between; */
 }
 
-a {
-  color: #00B7FF;
+.topinfo p {
+    margin: 1em
+}
+
+.body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.shop {
+    display: flex;
 }
